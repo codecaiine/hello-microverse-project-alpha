@@ -1,10 +1,10 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+
 
 # Hello Microverse
 
 In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices I learned . All about gitflow , linters. 
 
-- Screenshoot 2
+- Screenshoot 
 ![screenshot](./portfolio-web.PNG)
 
 - set up a new repository and prepare it for development using best practices.
@@ -30,7 +30,7 @@ Run the command below from the Terminal:
 
       git clone <URL> in your terminal
 
-	  cd microverse-portfolio
+	  cd hello-microverse-project
 
 	  start index.html
 
