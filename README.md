@@ -4,16 +4,11 @@
 
 In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices I learned . All about gitflow , linters. 
 
-- Screenshoot 
-![screenshot](./portfolio-web.PNG)
 
 - set up a new repository and prepare it for development using best practices.
 - build mobile website.
  
 
-## Live Demo
-
-[Live Demo Link](https://portfoliocodecaiine.github.io/)
  
 ## Built With
 
